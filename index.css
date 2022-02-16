@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 700px;
+    background-color: rgba(193, 238, 238, 0);
+    padding-left: 50px;
+    padding-top: 10px;
+}
+input{
+    padding: 5px 20px;
+}
+button{
+    padding: 5px 10px;
+}
+body{
+    background-image: url(https://68.media.tumblr.com/731f2f264ea8a2f994556e63bca04d11/tumblr_o1d1fqxNmt1u7gnm9o1_500.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color: white;
+}
